@@ -172,10 +172,6 @@ p {
     display: flex;
 }
 
-.flw-hov:hover {
-    transform: scale(8s);
-    color: mediumblue;
-}
 
 .ov-hd {
     overflow: hidden;
