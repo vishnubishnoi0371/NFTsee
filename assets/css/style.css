@@ -164,6 +164,10 @@ p {
     background-color: black;
     color: #FFF;
 }
+.on-off:hover{
+    background-color:#1A9FFF ;
+    border-radius: 50%;
+}
 
 .flx-dxn-rev {
     flex-direction: column-reverse;
