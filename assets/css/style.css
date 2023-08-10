@@ -159,6 +159,9 @@ p {
     background: rgba(0, 0, 0, 0.10);
     border: none;
 }
+.mt-22{
+    margin-top: 20px;
+}
 
 .btn-hover:hover {
     background-color: black;
